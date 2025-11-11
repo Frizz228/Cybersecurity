@@ -2,7 +2,6 @@
 
 > 🌐 *Advanced Cybersecurity Protection — your guide to staying safe in the digital world.*
 
-![CyberShield Banner](https://img.shields.io/badge/Cybersecurity-Protection-blue?style=for-the-badge\&logo=shield)
 
 ---
 
