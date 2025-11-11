@@ -108,7 +108,7 @@ It combines educational content, step-by-step tutorials, a personal checklist, a
 
 **CyberShield** — built with 💙 to help everyone stay safe online.
 📧 *[ivanstulins7@gmail.com](ivanstulins7@gmail.com)*
-🌍 [cybershield.com](#)
+🌍 [[https://frizz228.github.io/Cybersecurity/](https://frizz228.github.io/Cybersecurity/)](#)
 
 ---
 
