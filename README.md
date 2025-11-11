@@ -107,7 +107,7 @@ It combines educational content, step-by-step tutorials, a personal checklist, a
 ## 👨‍💻 **Author**
 
 **CyberShield** — built with 💙 to help everyone stay safe online.
-📧 *[ivanstulins7.com](ivanstulins7.com)*
+📧 *[ivanstulins7.com](ivanstulins7@gmail.com)*
 🌍 [cybershield.com](#)
 
 ---
@@ -116,7 +116,3 @@ It combines educational content, step-by-step tutorials, a personal checklist, a
 
 This project is licensed under the **MIT License**.
 Feel free to use, modify, and share — and help make the web a safer place 💻✨
-
----
-
-Would you like me to make this README more **visually enhanced for GitHub dark mode** (with an ASCII banner title and emoji icons per section for a more “premium” look)?
